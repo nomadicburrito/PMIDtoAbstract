@@ -10,8 +10,8 @@ The Requests package is needed to run this.  Requests can be found at http://doc
 
 To get only the abstracts, use the following:
 
-python requestNCBI.py <file with PMIDs> 0
+python requestNCBI.py fileWithPMIDs 0
 
 To get the abstracts with IDs parsed out, use the following command:
 
-python requestNCBI.py <file with PMIDs> 1
+python requestNCBI.py fileWithPMIDs 1
